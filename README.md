@@ -65,9 +65,10 @@
 | 9. | [Netflix](#netflix) |
 | 10. | [Machine Learning & AI Resources](#resources) |
 
-## FAANG Must Do Problems
 
 <details>
+## FAANG Must Do Problems
+  
 <summary>View Problems 💋</summary>
 
 | No. | Problem | Difficulty | Time Complexity | Space Complexity |
