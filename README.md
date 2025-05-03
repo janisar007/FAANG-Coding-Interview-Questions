@@ -109,7 +109,7 @@
 ## Amazon
 
 <details>
-<summary>View Problems</summary>
+<summary>View Problems 💋 🏀</summary>
 
 | No. | Problem | Difficulty | Time Complexity | Space Complexity |
 | --- | ------- | ---------- | --------------- | ---------------- |
