@@ -149,17 +149,17 @@
 ## Facebook
 
 <details>
-<summary>View Problems</summary>
+<summary>View Problems 🏀 💋</summary>
 
 | No. | Problem | Difficulty | Time Complexity | Space Complexity |
 | --- | ------- | ---------- | --------------- | ---------------- |
-| 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard | O(m×n) | O(m×n) |
+| 1 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | Hard 🏀 | O(m×n) | O(m×n) |
 | 2 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | O(n) | O(1) |
 | 3 | [3Sum](https://leetcode.com/problems/3sum) | Medium | O(n²) | O(1) or O(n) |
 | 4 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | Medium | O(4ⁿ) | O(n) |
 | 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | O(n) | O(n) |
 | 6 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | O(n log k) | O(1) |
-| 7 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard | O(n) | O(1) |
+| 7 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard 🏀| O(n) | O(1) |
 | 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | O(n) | O(1) |
 | 9 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | O(n×m) | O(1) |
 | 10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | O(log n) | O(1) |
