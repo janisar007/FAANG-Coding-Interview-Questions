@@ -175,7 +175,7 @@
 | --- | ------- | ---------- | --------------- | ---------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | O(n) | O(n) |
 | 2 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | O(n) | O(n) |
-| 3 | [Text Justification](https://leetcode.com/problems/text-justification) | Hard | O(n) | O(n) |
+| 3 | [Text Justification](https://leetcode.com/problems/text-justification) | Hard 🏀 | O(n) | O(n) |
 | 4 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | O(n) | O(k) |
 | 5 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | O(m×n) | O(n) |
 | 6 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard | O(n log n) | O(n) |
