@@ -162,7 +162,7 @@
 | 7 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard 🏀| O(n) | O(1) |
 | 8 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | O(n) | O(1) |
 | 9 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | Easy | O(n×m) | O(1) |
-| 10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | O(log n) | O(1) |
+| 10 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium 🏀 | O(log n) | O(1) |
 
 </details>
 
