@@ -109,14 +109,14 @@
 ## Amazon
 
 <details>
-<summary>View Problems 💋 🏀</summary>
+<summary>View Problems 💋 </summary>
 
 | No. | Problem | Difficulty | Time Complexity | Space Complexity |
 | --- | ------- | ---------- | --------------- | ---------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | O(n) | O(n) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | Medium | O(max(m,n)) | O(max(m,n)) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | Medium | O(n) | O(min(m,n)) |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard 🏀 | O(log(min(m,n))) | O(1) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard | O(log(min(m,n))) | O(1) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | Medium| O(n²) | O(1) |
 | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | Medium | O(n) | O(n) |
 | 7 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | Medium | O(n) | O(1) |
